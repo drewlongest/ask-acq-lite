@@ -1,5 +1,7 @@
 # Alex Hormozi: Principle Evidence Pointers
 
+These principles were distilled from Alex Hormozi's full corpus. Anchors whose identifier begins with `book_burst/alex/100M-Launch-Blackbook` or `workshop_burst/alex/26-02_Sales-Workshop` point at paywalled sources this lite namespace excludes. They record where a principle was confirmed during distillation; they are not retrievable through this product. A later pass regenerates the principles from the lite corpus alone.
+
 Quoted evidence lives in the private build workspace; these pointers identify the exact source documents.
 
 ## 1. One constraint at a time; a list of priorities proves you have none

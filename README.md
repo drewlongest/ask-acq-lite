@@ -48,6 +48,6 @@ The principles were not written from memory or reputation. Each person's corpus 
 
 - The corpora differ greatly in size and breadth. Sharran's corpus is 14 YouTube videos weighted toward personal finance and investing; a question outside that is out of corpus for him.
 - Absence of evidence means the corpus is silent on the topic, never that the person disagrees. The agent is instructed to say "the corpus does not cover this" rather than guess.
-- The endpoint is read-only and rate-limited: 30 requests per minute per IP, shared across namespaces, plus a weekly quota of 100 queries per IP.
+- The endpoint is read-only and rate-limited: 30 requests per minute per Internet Protocol (IP) address, shared across namespaces, plus a weekly quota of 100 queries per IP.
 
 This is an unofficial fan/study project; answers are an analyst's channeling of each person's published positions, not the people themselves.

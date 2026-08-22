@@ -108,9 +108,12 @@ a different person's corpus entirely, so a call without it is a defect.
 Query all THREE namespaces for every question: `alex-hormozi-lite`,
 `leila-hormozi-lite`, `sharran-srivatsaa-lite`. Calls are SEQUENTIAL, one at
 a time, never parallel: the Worker enforces a shared 30 requests per minute
-per IP limit, plus a weekly quota of 100 queries per IP. On HTTP 429, wait 60
-seconds and retry that call once rather than dropping the namespace or
-answering without it.
+per Internet Protocol (IP) address limit, plus a weekly quota of 100 queries
+per IP. On HTTP 429, wait 60 seconds and retry that call once rather than
+dropping the namespace or answering without it. If the retry also returns
+429, stop and tell the user that namespace is rate-limited right now (a
+weekly-quota 429 does not clear in 60 seconds); never answer from training
+data instead.
 
 Absence claims: before stating that a corpus does not cover something, re-read
 the hits you already retrieved in this conversation (never claim silence on a
@@ -143,7 +146,7 @@ Three principles survived a blind intersection across all three corpora: Alex Ho
 
 ## How this document was built
 
-Each expert's corpus was read on its own and turned into a candidate principle list with no sight of the other two lists (blind extraction). The lists were then intersected on meaning rather than wording. Every surviving candidate went to a cold confirmation pass: a separate check that demanded, per person, supporting passages from two or more distinct documents, quoted verbatim. Negative controls (one Alex-only and one Sharran-only principle planted among the candidates) were run through the same pass and were rejected, which is the evidence that the pass discriminates; the full pipeline artifacts (matches, per-statement confirmation verdicts, control verdicts, verification reports) are preserved in the private build workspace. Three candidates cleared the bar. Everything below is drawn only from those confirmed passages. The `principles/<name>-sources.md` files in this repo identify the exact source documents per person.
+Each expert's corpus was read on its own and turned into a candidate principle list with no sight of the other two lists (blind extraction). The lists were then intersected on meaning rather than wording. Every surviving candidate went to a cold confirmation pass: a separate check that demanded, per person, supporting passages from two or more distinct documents, quoted verbatim. Negative controls (one Alex-only and one Sharran-only principle planted among the candidates) were run through the same pass and were rejected, which is the evidence that the pass discriminates; the full pipeline artifacts (matches, per-statement confirmation verdicts, control verdicts, verification reports) are preserved in the private build workspace. Three candidates cleared the bar. Everything below is drawn only from those confirmed passages. The `<name>-sources.md` files beside this document identify the exact source documents per person.
 
 ## Scope caveat, read this before using the document
 

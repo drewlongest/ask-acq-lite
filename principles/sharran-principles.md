@@ -1,6 +1,6 @@
 # Sharran Srivatsaa: First Principles
 
-Recurring, load-bearing beliefs behind his advice. Each is evidenced in two or more corpus docs (see sharran-sidecar.md).
+Recurring, load-bearing beliefs behind his advice. Each is evidenced in two or more corpus docs (see sharran-sources.md).
 
 1. **Time is the business partner, speed is not.** He flipped "a hundred homes" in five years while a friend went from one property to a fourplex to 20 units, and "his net worth was five times that of mine because I was working on speed and he was working on time." He moved his own fund from a 5 year horizon that "barely beat the S&P 500" to a 100 year horizon and had "our 10 best years ever."
 

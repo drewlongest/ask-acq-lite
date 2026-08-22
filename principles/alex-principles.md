@@ -1,6 +1,6 @@
 # Alex Hormozi: First Principles
 
-Merged from four corpus slices (YouTube, courses, books, newsletter/workshop/X). Evidence in `alex-sidecar.md`.
+Merged from four corpus slices (YouTube, courses, books, newsletter/workshop/X). Evidence in the sources sidecar beside this file.
 
 1. **Every business is limited by exactly one constraint at a time, and a list of priorities proves you have none.** A business grows until it hits a constraint, then grows no further. Find it by asking what the one thing you do that makes the most money is, then what if I just did 50X more of that, then why not. Pick one, fix it, then pick the next one.
 
