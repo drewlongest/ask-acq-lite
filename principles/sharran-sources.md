@@ -1,96 +1,95 @@
-# Sharran Srivatsaa: Principle Evidence Pointers
+<!-- provenance: generated 2026-08-23; corpus snapshot: 1540 synthesized docs (newsletter_synthesized 94, podcast_synthesized 321, routed_synthesized 4, x_post_synthesized 20, youtube_synthesized 1101), latest source 2026-08-11, db acq_kb.sqlite, excluded ids [15794, 16104]; extraction rule: first-principles extraction rule (text dated 2026-08-05), build principles-v2 2026-08-23; checker verdict: PASS at cycle 8 (seeded control flagged: true; residual findings: 0 critical, 0 major, 0 minor) -->
+# Sharran Srivatsaa: First Principles: Sources
 
-Quoted evidence lives in the private build workspace; these pointers identify the exact source documents.
+Per-principle sources and anchors for `first_principles.md`. Kept out of the doc body because the embedded copy rides the answering agent's system prompt and the agent must cite only from retrieved hits. Every principle draws on at least two distinct sources.
 
-## 1. Time is the business partner, speed is not
-- `youtube_burst/OWorFLIbRoo#0` (https://youtu.be/OWorFLIbRoo)
-- `youtube_burst/Rccmhnt1ur4#0` (https://youtu.be/Rccmhnt1ur4)
-- `youtube_distilled/Rccmhnt1ur4` (https://youtu.be/Rccmhnt1ur4)
-- `youtube_distilled/UMiAzkNEM4U` (https://youtu.be/UMiAzkNEM4U)
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
+## 1. A claim is worth nothing until it arrives attached to the thing that proves it.
+Sources: [Why promises mea nothing in a listing appointment](https://www.youtube.com/watch?v=BUyxY6Wk1DU) (DOC 16042), [Prove Your Claims, Build Trust](https://www.youtube.com/watch?v=UHWas7RCnYY) (DOC 16722), [The best way to win more listing appointmnets](https://www.youtube.com/watch?v=3hO-4P0ds-Q) (DOC 15786), [Best way to win listings by using your process](https://www.youtube.com/watch?v=Gk-kmqoRiRU) (DOC 16162), [Proof Wins Listings Every Time!](https://www.youtube.com/watch?v=igQGEjdM6_4) (DOC 17202), [Should I make Just Sold Flyers for Real Estate Marketing](https://www.youtube.com/watch?v=xDmtNumPJLg) (DOC 17598), [How to Find the Right Coach for Your Goals!](https://www.youtube.com/watch?v=A8hqxJGYLiY) (DOC 15987), [How to Sell ANYTHING Online! - Full Breakdown with Jason Capital](https://www.youtube.com/watch?v=lyXvfC_RLu8) (DOC 18050)
+Anchors: "It's proof over promise: whenever you have the opportunity to say something, there has to be proof." (DOC 16042); "The key word is demonstrate: every single time you make a claim, you have to turn around and prove that claim." (DOC 16722); "If every claim is backed up, you get no pushback on it whatsoever." (DOC 15786); "You have to show them at least one system; if not, it's a promise and there's no proof." (DOC 16162); "The numbers don't have to be huge; 5,000, 4,000, 3,000, 2,000, or even 12 is better than zero, because it's proof over promise." (DOC 17202); "The case-study flyer shows proof of the process used, so it functions as evidence rather than a plain sold announcement." (DOC 17598); "the higher the price point, the less an offer needs to prove, because buyers at that level want a straight, tight result and are largely buying the trust and energy they already have in the seller." (DOC 18050)
 
-## 2. When money comes in, the first question is "what can I own with this?"
-- `youtube_burst/ISQkh8bu6EU#1` (https://youtu.be/ISQkh8bu6EU)
-- `youtube_burst/OWorFLIbRoo#1` (https://youtu.be/OWorFLIbRoo)
-- `youtube_burst/FBZxj9CGk00#1` (https://youtu.be/FBZxj9CGk00)
-- `youtube_distilled/FBZxj9CGk00` (https://youtu.be/FBZxj9CGk00)
+## 2. Greatness comes from removing commitments, not adding them.
+Sources: [How do you do greater things?](https://www.youtube.com/watch?v=0t8Yv98aH7Y) (DOC 15669), [How do you do GREAT things?](https://www.youtube.com/watch?v=jY_-nUkivm4) (DOC 17215), [Why 10X Is Easier Than 2X](https://www.youtube.com/watch?v=v1hhxDiy62o) (DOC 17525), [The #1 Reason You're Not Succeeding](https://www.youtube.com/watch?v=YXr2hHJYFiw) (DOC 16844), [How to work only 4 days](https://www.youtube.com/watch?v=B1jPR8Jq82Y) (DOC 16020)
+Anchors: "To do great things you must do fewer things" (DOC 15669); "To do great things, you have to eliminate some things; as we get older we add bills, children, house, investment property, new things, but we almost never take anything away." (DOC 17215); "10x-ing forces you to drop your baggage and throw away something that is not excellent to build the bigger thing." (DOC 17525); "If you stop learning 90% of the things you're learning right now, you'd hit your goal faster." (DOC 16844); "80 equals 100: you have to leave at least 20 percent capacity, or there's no way to think, decompress, or go deeper with high-maintenance clients." (DOC 16020)
+Note: slice-06 proposed "80 equals 100" as its own principle; slice-01 rejected it as a tactic because the evidence scopes it to his own client-facing workload. The union of evidence supports the narrower reading, so it ships as a derived tactic here.
 
-## 3. Borrow against assets, do not sell them
-- `youtube_burst/9EF3R3JR5Wk#0` (https://youtu.be/9EF3R3JR5Wk)
-- `youtube_burst/OWorFLIbRoo#2` (https://youtu.be/OWorFLIbRoo)
-- `youtube_distilled/UMiAzkNEM4U` (https://youtu.be/UMiAzkNEM4U)
-- `youtube_distilled/ISQkh8bu6EU` (https://youtu.be/ISQkh8bu6EU)
+## 3. The result comes from the system, not from the person running it.
+Sources: ["I'm an artist. I don't worry about technology stuff"](https://www.youtube.com/watch?v=Npy6bmCjmnw) (DOC 16516), [Three keys to success](https://www.youtube.com/watch?v=EUdBxcwUbSo) (DOC 16085), [CEOs Complain About These 3 Things](https://www.youtube.com/watch?v=-Mchm6mTkFk) (DOC 15627), [Automation can actually be inefficient, unless you do this](https://www.youtube.com/watch?v=8kFr9_xZTXc) (DOC 15940), [Your Business Model is the Product](https://www.youtube.com/watch?v=G_8N5yTH7EI) (DOC 16156), [How do you find the right brokerage?](https://www.youtube.com/watch?v=qvMO2KjiUSY) (DOC 17410)
+Anchors: "The world doesn't care that you're an artist; what the world cares about is a good process that drives a good result." (DOC 16516); "Good process, and good process alone, drives good results; when someone tries to "hack" the business he pushes back, though he'll agree to "hack it" for 30 days while building the infrastructure needed at scale." (DOC 16085); "stop complaining that the problem exists, assume it's going to exist forever, and build a system to make sure it's taken care of" (DOC 15627); "The big learning: amateurs automate for efficiency, but professionals automate for accuracy." (DOC 15940); "The business model that you run your business with is the business model that you sell; you don't sell your business, you sell your business model." (DOC 16156)
 
-## 4. It is not what you make, it is what you keep
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_distilled/wgvB_oMFHmI` (https://youtu.be/wgvB_oMFHmI)
-- `youtube_burst/9EF3R3JR5Wk#1` (https://youtu.be/9EF3R3JR5Wk)
+## 4. Protect the rhythm, not the size of any single effort.
+Sources: [Cadence over Consistency](https://www.youtube.com/watch?v=L7r5yLQdkoI) (DOC 16304), [Want to Build Wealth? Stick to One Thing for 10 Years](https://www.youtube.com/watch?v=-55ClI1UHAI) (DOC 15617), [Watch this if you want to become consistent](https://www.youtube.com/watch?v=h9G7PhEwGGg) (DOC 17149), [Three keys to success](https://www.youtube.com/watch?v=EUdBxcwUbSo) (DOC 16085), [Progress comes from showing up, not from doing it perfectly](https://www.youtube.com/watch?v=rDtNrStZfZw) (DOC 17422), [The Best Email Strategy](https://www.youtube.com/watch?v=EmR2RjGXzm8) (DOC 16096), [The No.1 Way To Improve Your Performance (Not Motivation)](https://www.youtube.com/watch?v=Fn6kzPt5QOw) (DOC 16126)
+Anchors: "the most important thing is the cadence, not the consistency; cadence is delivering the effort over and over again no matter what the result" (DOC 16304); "Real growth doesn't come from intensity, it comes from consistency: "not what you do once, but what you can do for years."" (DOC 15617); "You can't microwave health. You can't rush character. You can't hack mastery." (DOC 15617); "His rule: it's okay to suck, but it's not okay to skip." (DOC 17149); "Cadence of Accountability: unless you commit to specific things every day, you won't hit big numbers" (DOC 16085); "if the goal is the gym, doing just 5 minutes of elliptical still counts, not a skip; if the goal is 10 pages of reading a night, reading just one page still counts." (DOC 17422)
 
-## 5. Structure before returns
-- `youtube_burst/wgvB_oMFHmI#0` (https://youtu.be/wgvB_oMFHmI)
-- `youtube_burst/UMiAzkNEM4U#0` (https://youtu.be/UMiAzkNEM4U)
-- `youtube_burst/ISQkh8bu6EU#0` (https://youtu.be/ISQkh8bu6EU)
+## 5. Nothing is real until it is written down.
+Sources: [Your best ideas don't come from scrolling. They come from thinking.](https://www.youtube.com/watch?v=OzcLx6zPMWc) (DOC 16552), [Before You Pick a Business Partner, Watch This](https://www.youtube.com/watch?v=Q0GfMRq7rS4) (DOC 16588), [Suck Less Tomorrow - The Ultimate Guide to Self-Improvement](https://www.youtube.com/watch?v=P-0cXYzVf6U) (DOC 16355), [what do you do if you lose everything?](https://www.youtube.com/watch?v=OM3X-w33y0Q) (DOC 16534), What I Learned From Hiring Our New CEO, Ep. 342 (DOC 19071, no url in corpus)
+Anchors: "The single most important thing to do before creating anything is to write a memo." (DOC 16552); "They wrote 16 internal memos to arrive at the final book launch offer, changing it until the night before." (DOC 16552); "he'd send an early morning memo and by the time he checked back, they'd already worked on it, fast and thoughtful" (DOC 16588); "Document what you learn, build a system, a presentation, or a framework around it, rather than only discovering or teaching it, per the Learning Dogma." (DOC 16355); "nothing great ever happened without it being written down." (DOC 19071, not quoted in the doc body because the source carries no url)
 
-## 6. Every dollar needs a job
-- `youtube_burst/wgvB_oMFHmI#1` (https://youtu.be/wgvB_oMFHmI)
-- `youtube_distilled/UMiAzkNEM4U` (https://youtu.be/UMiAzkNEM4U)
-- `youtube_distilled/ISQkh8bu6EU` (https://youtu.be/ISQkh8bu6EU)
+## 6. Hard work that produces no result is a sequencing problem, not an effort problem.
+Sources: [Working hard but not seeing results? This is why you're stuck.](https://www.youtube.com/watch?v=Ux4c0zrIZuY) (DOC 16747), [Patience is Dumb](https://www.youtube.com/watch?v=a-E4kxvheJk) (DOC 16934), [The Exact Presentation Framework To Sell Anything](https://www.youtube.com/watch?v=j-FnSbTd4Kg) (DOC 16371), [Why You Can't Wait to Build Wealth](https://www.youtube.com/watch?v=qBDJzWONCC4) (DOC 17394), [This calendar close script will lock in serious buyer urgency](https://www.youtube.com/watch?v=UkXpSTDE2aY) (DOC 16733)
+Anchors: "The number one reason they can't work hard and don't see results is a sequencing problem." (DOC 16747); "When you know the plan, you can actually be more patient and have the courage to be more patient. It is not about the patience, it's about the plan." (DOC 16934); "Give the audience only one clear next action (the first domino) at the end, even after covering several steps or options, so they don't get overwhelmed trying to do everything at once." (DOC 16371); "His formula: live on 70% of what you make, invest 20% into things that can grow, and save 10% so you have options" (DOC 17394)
 
-## 7. Never risk the empire
-- `youtube_burst/OWorFLIbRoo#3` (https://youtu.be/OWorFLIbRoo)
-- `youtube_distilled/OWorFLIbRoo` (https://youtu.be/OWorFLIbRoo)
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_distilled/OcH0864CLPs` (https://youtu.be/OcH0864CLPs)
+## 7. Deliver the whole result before anything is asked in return.
+Sources: [This is the real reason behind creating content](https://www.youtube.com/watch?v=0FHwtJ_hcgA) (DOC 15661), [If you are in Real Estate... you should be doing this!](https://www.youtube.com/watch?v=qasZnUJ0zoU) (DOC 17406), [Is building a personal brand egotistical?](https://www.youtube.com/watch?v=eEIK24z28GI) (DOC 17063), [Don't maximize the deal. Maximize the relationship.](https://www.youtube.com/watch?v=brNlD94N5P4) (DOC 16981), [What is the best type of content?](https://www.youtube.com/watch?v=YGY0Yw-hImg) (DOC 16829), [How to get more referrals](https://www.youtube.com/watch?v=G8gC71pw4Ww) (DOC 16134)
+Anchors: "Ask how you can give everything away, not just one chapter or one nugget of your content, delivering results in advance instead of holding value back." (DOC 15661); "Stop trying to sell and start trying to serve by explaining the options people have." (DOC 17406); "He thinks of it as 99% selfless, 1% selfish: 99% of what they do helps other people, and the 1% is the byproduct that brands, positions, or helps them in some way." (DOC 17063); "Goldman prioritized the client relationship over the short-term extra profit, believing the most lucrative opportunities are exponential in the future." (DOC 16981); "Value is not the answer, the goal is to deliver results in advance." (DOC 16829)
 
-## 8. Concentrate only where you understand the risk and have control
-- `youtube_distilled/OWorFLIbRoo` (https://youtu.be/OWorFLIbRoo)
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
+## 8. The ceiling is set by who is around you, so the question is who, not what.
+Sources: [How I mentor CEOs](https://www.youtube.com/watch?v=GMivb97tb6k) (DOC 16142), [Be coachable. That's how you become someone worth backing.](https://www.youtube.com/watch?v=AAe_1w8LYnE) (DOC 15989), [The 10-10 Forever Rule That Changed My Life](https://www.youtube.com/watch?v=nGAxSST6LBA) (DOC 17325), [How to fast track your success](https://www.youtube.com/watch?v=hO1kDQ-rCqY) (DOC 17160), [Everything Goldman Sachs Teaches You About Money](https://www.youtube.com/watch?v=luvQRkxM-pQ) (DOC 2844)
+Anchors: "It's not a 'what do I need to do' conversation anymore, it's a 'who do I need to become, who do I need to surround myself with' conversation." (DOC 16142); "Your future depends on the conversations and rooms you are not in." (DOC 15989); "He created a 10 10 forever list: the 10 people he could invest in for the next 10 years who could change his life forever, starting with only two names." (DOC 17325); "A team already has lead flow, infrastructure, team resources, and training, and plugs you into a track record of success." (DOC 17160); "If you want to learn how to work hard, deliberately put yourself in an environment full of exceptional peers where effort is the only remaining competitive advantage; hard work is shaped more by the environment than by individual willpower." (DOC 2844)
 
-## 9. Score it, do not guess it
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_burst/_Kpi8HgzKw8#0` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_distilled/Rccmhnt1ur4` (https://youtu.be/Rccmhnt1ur4)
-- `youtube_distilled/luvQRkxM-pQ` (https://youtu.be/luvQRkxM-pQ)
+## 9. Income should come from something you own that keeps working when you stop.
+Sources: [The Rules Goldman Sachs Taught Me To Never Stress About Money Again](https://www.youtube.com/watch?v=wgvB_oMFHmI) (DOC 3055), [This is why compounding is your best friend](https://www.youtube.com/watch?v=al1P97JDDes) (DOC 16953), [The Secret of the Forbes 400: They Buy, Not Build from Scratch](https://www.youtube.com/watch?v=B30V9Sjasag) (DOC 16023), [What is financial freedom?](https://www.youtube.com/watch?v=Ridbav790cE) (DOC 16644), [How I Redefined Financial Freedom to 2x My Passive Income Safety Net](https://www.youtube.com/watch?v=wcDcNE7OpMo) (DOC 17578), [How to make money while you sleep](https://www.youtube.com/watch?v=O8IWHhuaVSo) (DOC 16522)
+Anchors: "Zone three is passive income: pre-funded income generated without trading time for money, via prior effort or asset purchase; if it's passive for you it should be active for someone else, or you are still trading time for money." (DOC 3055); "Time is your business partner; it works slowly, but once it starts working, it works better than any other business partner you can find." (DOC 16953); "Nobody in the top 75 of the Forbes 400 list actually sold anything; they're all buyers and builders." (DOC 16023); "An asset is something sustainable that you're not involved in, that delivers a service or makes you money while you sleep." (DOC 16522); "Creating an SOP is an asset, creating a system is an asset, creating a sales funnel is an asset, and creating a team to make calls on your behalf is an asset." (DOC 16522); "you want to be at 200% of passive income relative to monthly expenses" (DOC 17578)
+Note: slice-05 flagged the borrowed-asset material as possibly a second family. DOC 12295 ("The 4 Most Powerful Assets") was dropped from this list rather than used to unify it: it names four asset types (capability as massive skill, raw material as massive resources, distribution as massive reach, influence as massive network) that can be acquired or hired, so it supplies no anchor for the ownership framing here.
 
-## 10. Every expensive mistake must buy a durable principle
-- `youtube_burst/_Kpi8HgzKw8#0` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_distilled/OcH0864CLPs` (https://youtu.be/OcH0864CLPs)
+## 10. Set decision speed by reversibility.
+Sources: [Being Around The Top 0.01% Teaches You This](https://www.youtube.com/watch?v=BZrgkgCF79g) (DOC 2332), [Some opportunities don't wait, choose wisely.](https://www.youtube.com/watch?v=--T5boQbYFg) (DOC 15613), [How to pick an investment](https://www.youtube.com/watch?v=VrXvaCX9EQE) (DOC 16782), [the secret to never procratinating again...](https://www.youtube.com/watch?v=XhnE1DnWW_g) (DOC 16815), [The fastest way to make something great is to make a lot of something imperfect.](https://www.youtube.com/watch?v=R4l9WtQQQv0) (DOC 16624), How Billionaires Decide (DOC 12227, no url in corpus), Sharran X posts 2026-02 (DOC 2069, no url in corpus)
+Anchors: "reversible decisions should be made and acted on fast; irreversible decisions warrant taking time to think and plan." (DOC 2332); "Elon's rule: if a decision is reversible, go do it fast; if it's irreversible, slow down and make a plan." (DOC 15613); "The goal is not a perfect score but a smart, fast decision." (DOC 16782); "Sharran tells his teams that if you have an idea, get version one as fast as possible, called the shitty first draft." (DOC 16624); "It's hard to see the value of a shitty first draft because you can only picture the perfect final result." (DOC 16815); "Not making a decision is also a decision, but it's the only decision you didn't actually choose." (DOC 12227, not quoted in the doc body because the source carries no url); "The cost of making the wrong decision is usually smaller than you think, the cost of making no decision is usually higher than you think; choose fast, correct later." (DOC 2069, not quoted in the doc body because the source carries no url)
 
-## 11. Effort is the one lever you fully control, and environment sets its level
-- `youtube_burst/BZrgkgCF79g#0` (https://youtu.be/BZrgkgCF79g)
-- `youtube_burst/BZrgkgCF79g#2` (https://youtu.be/BZrgkgCF79g)
-- `youtube_distilled/luvQRkxM-pQ` (https://youtu.be/luvQRkxM-pQ)
+## 11. An idea only travels if it has a name and a shape.
+Sources: [Master one thing. Name it. Share it. Repeat forever.](https://www.youtube.com/watch?v=ZWKi1qQtApY) (DOC 16879), [How to Make Open Houses Unforgettable with the 412 Formula](https://www.youtube.com/watch?v=-XZGO1pGtGA) (DOC 15631), [This is how you explain anything to anyone](https://www.youtube.com/watch?v=PS7jdSu01TQ) (DOC 16568), [Good content doesn't fail. It just needs better packaging.](https://www.youtube.com/watch?v=feg5ftTh3Wg) (DOC 17101), [How to pick an investment](https://www.youtube.com/watch?v=VrXvaCX9EQE) (DOC 16782), [What is the best sales technique?](https://www.youtube.com/watch?v=MZFIgE9it3s) (DOC 16339), [Going viral is less about better content and more about better packaging](https://www.youtube.com/watch?v=KArzNMEfLaU) (DOC 16271)
+Anchors: "Master one thing, give it a memorable name, make sure it works, give it away for free, and keep talking about it forever." (DOC 16879); "Give your process a specific, ownable name, like a formula, instead of just doing a good tactic, so clients see the system behind it and understand the work involved." (DOC 15631); "He learned this way to explain anything to anyone from a kindergarten teacher: why, what, how, and now." (DOC 16568); "His phrase: content missing packaging is missing being wrapped in bacon." (DOC 17101); "The investment x-ray has four questions, each scored out of 25 points for a 100-point total: capital preservation, tax efficiency, cash flow, and growth." (DOC 16782)
 
-## 12. If you cannot solve a problem, it is because you are playing by the rules
-- `youtube_distilled/BZrgkgCF79g` (https://youtu.be/BZrgkgCF79g)
-- `youtube_burst/Vx_sSMAJjNg#1` (https://youtu.be/Vx_sSMAJjNg)
-- `youtube_burst/agq0mKUVrEg#0` (https://youtu.be/agq0mKUVrEg)
+## 12. Vagueness is what stalls people, so name the exact item, number or next step.
+Sources: [Communicate from the listener's perspective, not your own.](https://www.youtube.com/watch?v=q1m4PwVu6qo) (DOC 17392), [Peyton Manning Coached Me](https://www.youtube.com/watch?v=7-yzWDPZUYM) (DOC 15903), [The #1 Door Knocking Strategy to Convert More Sellers!](https://www.youtube.com/watch?v=Yq4vzSKqxPY) (DOC 16859), [Stop using jargon. Be clear and specific.](https://www.youtube.com/watch?v=DcAQP-JDtSc) (DOC 16056), [How to get more real estate listings](https://www.youtube.com/watch?v=-kVN1RxxNsU) (DOC 15638), [Whats the best way to increase email opens?](https://www.youtube.com/watch?v=_ydZhO--I1o) (DOC 16932)
+Anchors: "be as specific as possible because specificity makes a message believable" (DOC 17392); "Teams, employees, and clients cannot read your mind, so you end up throwing sloppy passes when you transfer your ideas to them poorly." (DOC 15903); "At the door, say something specific like 2024, we have 13 clients looking to buy in the next 7 months, rather than a vague claim about having buyers." (DOC 16859); "On his team, Sharran does not use one pagers or random things to transfer ideas; they use one minute videos, because a great idea requires at least a one minute video." (DOC 15903); "Saying "my client wants to buy your home" is clearer than "I have a buyer."" (DOC 16056)
 
-## 13. Build the game plan before you go looking
-- `youtube_burst/4RGSx3mklcc#0` (https://youtu.be/4RGSx3mklcc)
-- `youtube_distilled/FBZxj9CGk00` (https://youtu.be/FBZxj9CGk00)
-- `youtube_distilled/BZrgkgCF79g` (https://youtu.be/BZrgkgCF79g)
+## What he refuses
+- Treating work-life balance as a goal: [There's no such thing as work life balance](https://www.youtube.com/watch?v=L3A5D8g8wJc) (DOC 16302)
+- Taking notes without implementing them: [Why you should STOP being a lifelong learner](https://www.youtube.com/watch?v=kNshI-c6_uY) (DOC 17237)
+- Counting likes: [Focus on Shares & DMs, Not Likes](https://www.youtube.com/watch?v=XAzAq6Qg06M) (DOC 16813)
+- Generic self-promotion: [5 Realtor Secrets You Need!](https://www.youtube.com/watch?v=EJbAA5FmU0I) (DOC 16079)
+- Hire slow, fire fast: [Hire Slow Fire Fast Is Dumb](https://www.youtube.com/watch?v=tUFnFGp7T4w) (DOC 17486)
+- Hiring a sales team by default: [Do you need a sales team?](https://www.youtube.com/watch?v=keN0wOdKOMA) (DOC 17247)
+- Just-listed, just-sold and market-update emails, hedge preserved: [Best emails to send for Real Estate Agents](https://www.youtube.com/watch?v=3IaZaTylwRY) (DOC 15756). Both quotes come from the same source and must travel together; he refuses the commodity version, not the email type, and in the same document scripts a just-listed email rewritten as a director's cut with private photos linked to Dropbox.
+- The 401(k) as the wealth vehicle, hedge preserved: [The 401(k) Lie That Keeps You Broke](https://www.youtube.com/watch?v=6W-oqx_m3jQ) (DOC 15888). Both quotes come from the same source and must travel together; he explicitly endorses taking the employer match.
+- Paying his children for chores: [If your kids learn to love building, they'll never be afraid of work.](https://www.youtube.com/watch?v=BqA_F6acXgw) (DOC 16413)
+- Asking a prospect their budget: [Stop Triggering Sales Resistance](https://www.youtube.com/watch?v=MFIVsrUBpSs) (DOC 16325)
+- Paying for accountability: [Don't Pay For Accountability](https://www.youtube.com/watch?v=JLpbuwmWkOA) (DOC 16245)
 
-## WHAT HE REFUSES: source lines
-- `youtube_burst/OWorFLIbRoo#3` (https://youtu.be/OWorFLIbRoo)
-- `youtube_burst/UMiAzkNEM4U#1` (https://youtu.be/UMiAzkNEM4U)
-- `youtube_distilled/ISQkh8bu6EU` (https://youtu.be/ISQkh8bu6EU)
-- `youtube_burst/9EF3R3JR5Wk#1` (https://youtu.be/9EF3R3JR5Wk)
-- `youtube_distilled/9EF3R3JR5Wk` (https://youtu.be/9EF3R3JR5Wk)
-- `youtube_distilled/Rccmhnt1ur4` (https://youtu.be/Rccmhnt1ur4)
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_burst/Rccmhnt1ur4#1` (https://youtu.be/Rccmhnt1ur4)
-- `youtube_distilled/wgvB_oMFHmI` (https://youtu.be/wgvB_oMFHmI)
+## Voice
+- Announces the count before the contents: [Three keys to success](https://www.youtube.com/watch?v=EUdBxcwUbSo) (DOC 16085)
+- Corrects by negation, then substitutes in the same sentence: [Your Business Model is the Product](https://www.youtube.com/watch?v=G_8N5yTH7EI) (DOC 16156)
+- Hands over the exact words to say, in quotation marks: [5-Step Door-Knocking Script to Win More Listings!](https://www.youtube.com/watch?v=5DUU6Mq98j4) (DOC 15834)
+- Downgrades the rigor of his own method out loud: [Why You Can't Wait to Build Wealth](https://www.youtube.com/watch?v=qBDJzWONCC4) (DOC 17394)
+- Gives explicit permission to override him with better data: [The Best Email Strategy](https://www.youtube.com/watch?v=EmR2RjGXzm8) (DOC 16096)
+- Anchors an abstract point to one named person or brand: [What is teh best type of business model](https://www.youtube.com/watch?v=IjcqKijQtWs) (DOC 16225)
+- Credits the line to whoever said it first: [Being Around The Top 0.01% Teaches You This](https://www.youtube.com/watch?v=BZrgkgCF79g) (DOC 2332)
+- Three-part parallel line as the takeaway: [Want to Build Wealth? Stick to One Thing for 10 Years](https://www.youtube.com/watch?v=-55ClI1UHAI) (DOC 15617)
+- Replaces the question rather than answering it: [How do you find the right brokerage?](https://www.youtube.com/watch?v=qvMO2KjiUSY) (DOC 17410)
 
-## VOICE: source lines
-- `youtube_burst/Vx_sSMAJjNg#0` (https://youtu.be/Vx_sSMAJjNg)
-- `youtube_burst/wgvB_oMFHmI#1` (https://youtu.be/wgvB_oMFHmI)
-- `youtube_burst/ISQkh8bu6EU#1` (https://youtu.be/ISQkh8bu6EU)
-- `youtube_burst/9EF3R3JR5Wk#1` (https://youtu.be/9EF3R3JR5Wk)
-- `youtube_burst/OWorFLIbRoo#2` (https://youtu.be/OWorFLIbRoo)
-- `youtube_burst/Vx_sSMAJjNg#1` (https://youtu.be/Vx_sSMAJjNg)
-- `youtube_burst/BZrgkgCF79g#2` (https://youtu.be/BZrgkgCF79g)
-- `youtube_distilled/_Kpi8HgzKw8` (https://youtu.be/_Kpi8HgzKw8)
-- `youtube_distilled/wgvB_oMFHmI` (https://youtu.be/wgvB_oMFHmI)
-- `youtube_distilled/ISQkh8bu6EU` (https://youtu.be/ISQkh8bu6EU)
-- `youtube_burst/Rccmhnt1ur4#1` (https://youtu.be/Rccmhnt1ur4)
+## Bio line
+Sources: [The Exit is NOT the Answer!](https://www.youtube.com/watch?v=Y8QeiIDGTd8) (DOC 16825), [Most opportunities are won by the person who simply refuses to quit.](https://www.youtube.com/watch?v=GWOGMYruuhk) (DOC 16154), [There's only one alarm on my phone](https://www.youtube.com/watch?v=z0MiQzgKLoU) (DOC 17636)
+Anchors: "Sharran took the company from about $300 million a year to finishing the year at $3.4 billion, a 10x in a five-year period." (DOC 16825); "I went through 39 one-on-one interviews at Goldman Sachs before they offered me a job" (DOC 16154); "His only phone alarm is set for 4:45" (DOC 17636)
+
+## SUPERSEDED
+- The personal target above the crossing point moved from 100% to 200% of monthly expenses (2025-04-23); the 100% definition of financial freedom itself is still current (DOC 3055): DOC 12016 superseded by DOC 17578
+- Buying single-family rental homes superseded by multifamily only, stated as never doing single-family again: DOCs 16032, 17187
+- Stepping off boards to focus superseded by sitting on three boards: DOC 12634
+- A five-year fund horizon superseded by a hundred-year plan for the holding company: DOCs 2574, 18013
+- A $997 or $1,997 offer needs a long video sales letter superseded by the rule that a higher price needs less proof, not more: DOC 18050
+- Out-grinding everyone with 4:20 AM training superseded by heart-rate-variability and glucose tracking with deliberate recovery: DOCs 17698, 16020, 17162
+- Charging $100,000 to $200,000 for keynotes superseded by no longer charging for them: DOC 12100
+- Status symbols as proof of success superseded by efficiency over status: DOC 9941
+- Content buckets as the planning unit superseded by the TICE frame: DOC 11858 superseded by DOC 12110
+- Keynote decks as the explanation format superseded by why, what, how, now: DOC 16568
+- Hiring accountability partners superseded by the position that needing accountability means you are not committed yet: DOCs 2016 (2025-06), 9892 (2025-08-21); DOC 16245 stays the no-paid-accountability refusal source only

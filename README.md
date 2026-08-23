@@ -6,9 +6,9 @@ Lite means paywalled sources are excluded from every namespace.
 
 The corpora, all 2026-era captures:
 
-- **alex-hormozi-lite**: YouTube videos, his podcast episode archive, the free Acquisition.com Scaling and Money Models course lessons, slices of his books ($100M Offers, $100M Leads, $100M Money Models, $100M Lost Chapters), newsletters, free prompt-template assets, and monthly archives of his X posts. Excluded as paywalled: the $100M Launch Blackbook launch document, a private sales workshop transcript, and paid prompt-template assets.
+- **alex-hormozi-lite**: YouTube videos, his podcast episode archive, the free Acquisition.com Scaling and Money Models course lessons, slices of his books ($100M Offers, $100M Leads, $100M Money Models, $100M Lost Chapters), newsletters, one free gym profit playbook asset, and monthly archives of his X posts. Excluded as paywalled: the $100M Launch Blackbook launch document, a private sales workshop transcript, and the whole prompt-template asset library. No prompt template is retrievable here.
 - **leila-hormozi-lite**: YouTube videos, her podcast episode archive, newsletters, monthly archives of her X posts, and the shared Acquisition.com Scaling course lessons.
-- **sharran-srivatsaa-lite**: 14 YouTube videos, weighted toward personal finance and investing.
+- **sharran-srivatsaa-lite**: 14 YouTube videos plus 20 monthly archives of his X posts (2025-01 through 2026-08). 158 vectors in all, and the X archives are 73 percent of them, so his material is far from YouTube only. Weighted toward personal finance, wealth, and investing, and much the smallest of the three corpora.
 
 ## Install
 
@@ -42,11 +42,11 @@ The `principles/` folder holds the distilled first-principles documents per pers
 
 ## Method
 
-The principles were not written from memory or reputation. Each person's corpus was read on its own and turned into a candidate principle list with no sight of the others (blind extraction). Every candidate then went through a cold confirmation pass that demanded supporting passages from two or more distinct documents per person, quoted verbatim from the corpus. Negative controls (principles planted among the candidates that the person never stated) were run through the same pass and were rejected, which is the evidence that the pass discriminates rather than rubber-stamps. Only confirmed principles ship. The principles were distilled from the full corpora; the hosted lite knowledge bases exclude the paywalled sources listed above.
+The principles were not written from memory or reputation. Each person's corpus was read on its own and turned into a candidate principle list with no sight of the others (blind extraction). Every candidate then went through a cold confirmation pass that demanded supporting passages from two or more distinct documents per person, quoted verbatim from the corpus. Negative controls (principles planted among the candidates that the person never stated) were run through the same pass and were rejected, which is the evidence that the pass discriminates rather than rubber-stamps. Only confirmed principles ship. The principles were distilled from the full corpora; the hosted lite knowledge bases exclude the paywalled sources listed above. Two consequences worth stating plainly: installed principles are the only route by which paywalled material informs an answer here, and Sharran's principles were built from 1,540 synthesized documents while the namespace this product retrieves from holds 158 vectors drawn from 34 source documents, so one of his principles can rest on a source you cannot retrieve or cite here.
 
 ## Scope caveats
 
-- The corpora differ greatly in size and breadth. Sharran's corpus is 14 YouTube videos weighted toward personal finance and investing; a question outside that is out of corpus for him.
+- The corpora differ greatly in size and breadth. Sharran's is much the smallest: 14 YouTube videos plus 20 monthly archives of his X posts, weighted toward personal finance, wealth, and investing; a question outside that is out of corpus for him. Most of his material is X posts rather than video, so an answer that finds nothing in his videos may still be covered.
 - Absence of evidence means the corpus is silent on the topic, never that the person disagrees. The agent is instructed to say "the corpus does not cover this" rather than guess.
 - The endpoint is read-only and rate-limited: 30 requests per minute per Internet Protocol (IP) address, shared across namespaces, plus a weekly quota of 100 queries per IP.
 

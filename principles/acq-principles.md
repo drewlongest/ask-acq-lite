@@ -8,7 +8,7 @@ Each expert's corpus was read on its own and turned into a candidate principle l
 
 ## Scope caveat, read this before using the document
 
-Sharran Srivatsaa's corpus here is 14 videos and weighted toward personal finance and investing. Alex's and Leila's corpora are much larger and much broader. So the intersection is bounded by the smallest, narrowest corpus, and absence from this document carries exactly one meaning: **not evidenced in all three corpora.** It never means the three disagree, and it never means someone rejects the idea. A principle can be central to two of them and simply have no support in the 14 Sharran videos on hand.
+Sharran Srivatsaa's corpus here is 14 YouTube videos plus 20 monthly archives of his X posts, 158 vectors in all, weighted toward personal finance, wealth, and investing. Most of it is X posts rather than video. Alex's and Leila's corpora are much larger and much broader. So the intersection is bounded by the smallest, narrowest corpus, and absence from this document carries exactly one meaning: **not evidenced in all three corpora.** It never means the three disagree, and it never means someone rejects the idea. A principle can be central to two of them and simply have no support in the Sharran material on hand.
 
 Each person is quoted in their own words below. Nothing is blended into a single voice, because they do not frame these the same way.
 

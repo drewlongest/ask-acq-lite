@@ -1,100 +1,109 @@
-# Leila Hormozi: Principle Evidence Pointers
+<!-- provenance: generated 2026-08-23; corpus snapshot: 552 synthesized docs (newsletter_synthesized 37, podcast_synthesized 431, routed_synthesized 2, x_post_synthesized 20, youtube_synthesized 62), latest source 2026-08-05, db acq_kb.sqlite, excluded ids none; extraction rule: first-principles extraction rule (text dated 2026-08-05), build principles-v2 2026-08-23; checker verdict: PASS at cycle 12 (seeded control flagged: true; residual findings: 0 critical, 0 major, 0 minor) -->
+# Leila Hormozi: First Principles: Sources
 
-Quoted evidence lives in the private build workspace; these pointers identify the exact source documents.
+Per-principle sources and anchors for `first_principles.md`. Kept out of the doc body because the embedded copy rides the answering agent's system prompt and the agent must cite only from retrieved hits. Every principle draws on at least two distinct sources.
 
-## 1. Kindness over niceness; silence is cowardice
-- `newsletter_burst/leila/2026-04-06_silence-isnt-kindness#0`
-- `youtube_burst/6lyTl8BTXhY#1` (https://youtu.be/6lyTl8BTXhY)
-- `youtube_distilled/ZC0RgDJ3J7Q` (https://youtu.be/ZC0RgDJ3J7Q)
-- `youtube_burst/0iDZ8UDvlWU#0` (https://youtu.be/0iDZ8UDvlWU)
+## 1. Act first, because the feeling you are waiting for is the output, not the input.
+Sources: [Give Me 8 Minutes and I’ll Make 2026 The Best Year Yet](https://www.youtube.com/watch?v=CqtFlzNivuI) (DOC 2342), Courage Comes First. Confidence Comes Later | Ep 301 (DOC 11301), [Give me 15 Minutes and I'll Make you Dangerously Confident](https://www.youtube.com/watch?v=7e6RSGdvHD8) (DOC 2269), Worth Doing Badly (DOC 518), Leila X posts 2025-08 (DOC 1939), How I Use Fear to Make Better Decisions | Ep 271 (DOC 11188), Talking Stress, Leadership, & Delegation (with Simon Squibb) | Ep 231 (DOC 18839), Confidence Comes From Reps, Not Hype | Ep 280 (DOC 11213), The Realities of Being a Content Creator (on Think Media Podcast) | Ep 145 (DOC 18637), [How to Achieve Anything](https://www.youtube.com/watch?v=l5WjRPQjbVo) (DOC 2841), Leila X posts 2025-03 (DOC 1918)
+Anchors: "action comes first, action builds experience, experience builds competence, and competence is what creates confidence" (DOC 2342); "Courage is the input, and confidence is the output; confidence is what you get after you've done the hard thing, courage is what gets you to do it in the first place." (DOC 11301); "Emotion follows motion, not the other way around: you don't need to eliminate fear before acting, only tolerate it." (DOC 2269); "The four years I spent waiting did not make the first video better. They just delayed by four years the point at which I started getting good." (DOC 518)
 
-## 2. Culture is what you tolerate and enforce
-- `youtube_burst/9OkBN4uor5M#0` (https://youtu.be/9OkBN4uor5M)
-- `youtube_burst/1EyFgm0fXso#0` (https://youtu.be/1EyFgm0fXso)
-- `youtube_distilled/LFxmbG70yk0` (https://youtu.be/LFxmbG70yk0)
-- `newsletter_burst/leila/2026-04-27_calm-is-not-coasting#0`
-- `newsletter_distilled/leila/2026-04-13_compliance-isnt-culture`
+## 2. Design the environment so the right behavior is the cheapest one available.
+Sources: How Systems Are The Real Secret to Success | Ep 306 (DOC 11323), Leila X posts 2026-02 (DOC 1966), Give Me 8 Minutes & I’ll Make 2026 The Best Year Yet | Ep 327 (DOC 11417), [Success Is Hard Until You Build Systems Like This](https://www.youtube.com/watch?v=skG54l4Vp_4) (DOC 3014), It's a Systems Issue (DOC 491), Molding Success from Hardship Pt.1 (with The Mulligan Brothers) | Ep 119 (DOC 18418), My Top 5 Lessons from 2025 | Ep 326 (DOC 11412), Engineering Your Environment for Success (with Lisa Bilyeu) Pt.1 - July ‘23 | Ep 78 (DOC 18098), Leverage Debt (DOC 505), [Become Addicted To Discipline With These 6 Strategies](https://www.youtube.com/watch?v=5XhfNHswGsU) (DOC 2238), Leila X posts 2026-01 (DOC 1961)
+Anchors: "Intelligent people don't just rely on willpower, they know willpower is a terrible strategy, instead they change their environment." (DOC 1966); "You don't rise to the level of your goals, you actually are going to fall to the level of the systems you put in place." (DOC 11323); "Structure is where you derive power from, and discipline is the power grid." (DOC 11417); "if you're constantly pushing through resistance, the problem is the system, not you" (DOC 3014)
 
-## 3. Confidence is the output, not the input
-- `youtube_burst/7e6RSGdvHD8#0` (https://youtu.be/7e6RSGdvHD8)
-- `newsletter_burst/leila/2026-06-29_worth-doing-badly#0`
-- `newsletter_distilled/leila/2026-06-29_worth-doing-badly`
-- `youtube_distilled/aMxcZY6aIFU` (https://youtu.be/aMxcZY6aIFU)
-- `youtube_distilled/e1awpbZxVnw` (https://youtu.be/e1awpbZxVnw)
-- `youtube_burst/xO4lpL0FNLg#1` (https://youtu.be/xO4lpL0FNLg)
+## 3. The standard is what you model and what you let pass, not what you declare.
+Sources: The 5 Systems That Will Make Your Business Run Itself  | Ep. 346 (DOC 11508), [the new era of acquisition.com](https://www.youtube.com/watch?v=qQXLA_jLQWc) (DOC 2940), My Thoughts On Work, Culture, & Building My Company | Ep 234 (DOC 11069), A Quick Thought On Culture (DOC 496), Compliance Isn't Culture (DOC 495), Finding Self-Respect in Relationships | Spotify Video Exclusive (DOC 10718), When To Tolerate Discomfort | Ep 204 (DOC 10957), [Success is Hard Until You Build Systems Like This](https://www.youtube.com/watch?v=9OkBN4uor5M) (DOC 2299), Leila X posts 2025-03 (DOC 1918), 7 Tips To Have a Strong Business & Marriage | Ep 97 (DOC 10571)
+Anchors: "culture is not what you say, it's what you tolerate and what you enforce" (DOC 11508); "Culture is a reflection of the person at the top; the culture will never be kinder, more direct, or harder working than the leader." (DOC 11069); "The standard a leader walks past or says nothing about is the standard that gets accepted, and they're watching more closely than anyone." (DOC 496); "Everything you tolerate from a partner, you train them is acceptable in the relationship; actions, not words, are what get reinforced." (DOC 10718)
 
-## 4. Systems problem, not motivation problem
-- `youtube_distilled/skG54l4Vp_4` (https://youtu.be/skG54l4Vp_4)
-- `newsletter_distilled/leila/2026-03-30_its-a-systems-issue`
-- `youtube_burst/5XhfNHswGsU#0` (https://youtu.be/5XhfNHswGsU)
-- `youtube_distilled/xO4lpL0FNLg` (https://youtu.be/xO4lpL0FNLg)
+## 4. Reinforce the behavior you want immediately, because punishment only holds while you are watching.
+Sources: 7 Lessons I Wish I Knew Earlier | Ep 114 (DOC 10640), Training Your Team Should Be Simple - 3 Steps | Ep 267 (DOC 11166), My Assistant Cost Me $20,000 (DOC 466), Why Positive Reinforcement Works Better than Punishment | Ep 173 (DOC 10869), Behind-The-Scenes Look At How A $100M+ Company Is Actually RAN w/ Leila Hormozi (on The Action Academy Podcast) | Ep 191 (DOC 18768), How Positive Reinforcement Improves Team Performance | Ep 144 (DOC 10740), Become an Effective Leader with These 3 Principles | Ep 163 (DOC 10833), Visualization Without Skill Doesn't Work | Ep 237 (DOC 11081), Balancing Work, Life, Relationships (my first AMA) | Spotify Video Exclusive (DOC 10546), My Top 7 Productivity Habits | Ep 7 (DOC 10131), [Give me 17 minutes, and I’ll Make You Dangerously Consistent](https://www.youtube.com/watch?v=cXytK82N93Y) (DOC 2764), Employee Asks Me About Personal Growth & Promotions | Ep 219 (DOC 18809), Why Punishing Your Team Will Never Work | Ep 160 (DOC 10821)
+Anchors: "Reward the behaviors you want rather than punishing the behaviors you don't want" (DOC 10640); "building a culture of praise over punishment had the unintended side effect of making people afraid to give direct feedback, and that feedback and punishment are not the same thing" (DOC 18809); "balancing soft and kind with passionate and assertive as her current growth focus" (DOC 18809); "latency beats intensity every time." (DOC 11166); "Punishment creates an environment of secrecy: people are afraid to reveal mistakes or missed deadlines, so small problems turn into big ones before anyone can fix them" (DOC 10869); "Your job as a leader isn't to punish mistakes, it's to point out the gap between where they are and where they need to be." (DOC 466)
 
-## 5. The leader's job is to become unnecessary
-- `newsletter_burst/leila/2026-01-26_the-week-i-was-offline#0`
-- `newsletter_burst/leila/2026-01-05_what-rising-reveals#1`
-- `newsletter_distilled/leila/2025-12-29_too-available`
-- `youtube_distilled/PrkLlDju0Xc` (https://youtu.be/PrkLlDju0Xc)
+## 5. Nothing improves until the expectation is explicit and the thing is measured.
+Sources: The Power of Accountability (GymCon Day 2) - Pt. 1 | Ep 59 (DOC 10416), How Accountability Leads to Effective Leadership | Ep 95 (DOC 10566), Leila X posts 2026-02 (DOC 1966), Mastering The Game of Money | Ep 162 (DOC 10829), 7 Lessons I Wish I Knew Earlier | Ep 114 (DOC 10640), Building a Winning Team: Unlocking the Talent Pipeline (on Leveling Up with Eric Siu) Pt.2 | Ep 109 (DOC 18325), How Managing Expectations Can Increase Your Revenue | Ep 85 (DOC 10536), [How to Think Like the Top 1%](https://www.youtube.com/watch?v=6by3XnwdsMQ) (DOC 2254), [Success is Hard Until You Build Systems Like This](https://www.youtube.com/watch?v=9OkBN4uor5M) (DOC 2299)
+Anchors: "accountability is an expectation tied to a measurement, amplified or dampened by feedback" (DOC 10416); "Her accountability formula is: expectations plus measurement, times feedback, equals accountability; she says feedback is the only multiplier in the formula." (DOC 10566); "The more you measure your money, the more you make it" (DOC 10829); "Most leadership problems aren't caused by bad people, they're caused by leaders who never explained what 'good' means" (DOC 1966)
 
-## 6. Judgment over effort; never decide while emotional
-- `youtube_burst/LpNODHhn-60#0` (https://youtu.be/LpNODHhn-60)
-- `newsletter_burst/leila/2026-01-05_what-rising-reveals#3`
-- `youtube_burst/FQOlC-3SUF4#1` (https://youtu.be/FQOlC-3SUF4)
-- `youtube_distilled/Q9KaMecVLvc` (https://youtu.be/Q9KaMecVLvc)
-- `youtube_distilled/VR2RLVBiMe8` (https://youtu.be/VR2RLVBiMe8)
-- `youtube_distilled/LpNODHhn-60` (https://youtu.be/LpNODHhn-60)
+## 6. Start every diagnosis with how am I responsible for this.
+Sources: [How To Rise Up Stronger From Any Setback (Top 1% Secrets)](https://www.youtube.com/watch?v=VR2RLVBiMe8) (DOC 2649), How To Rise Up Stronger from Any Setback | Ep 323 (DOC 11397), Engineering Your Environment for Success (with Lisa Bilyeu) Pt.1 - July ‘23 | Ep 78 (DOC 18098), What Alex Hormozi & I Accomplished In Q1 & HOW We Did It | Ep 259 (DOC 18917), From Arrested 6 Times to CEO of a $100M Portfolio | Spotify Video Exclusive (DOC 10253), Leila X posts 2026-01 (DOC 1961), How to Retain 'A' Players | Ep 27 (DOC 10223), 7 Tips To Have a Strong Business & Marriage | Ep 97 (DOC 10571)
+Anchors: "if you think the world happens to you, you're defenseless, but if you think the world happens because of you, you will feel unstoppable" (DOC 11397); "the 'ownership effect' (her own coined term): asking 'how am I responsible for this?' after a bad hire" (DOC 2649); "Victims blame, and victims look at everybody as the enemy, and I don't fuck with that." (DOC 18917); "Own turnover instead of blaming employees; audit whether you actually set clear expectations, gave context, and onboarded well before concluding someone wasn't a fit." (DOC 10223)
 
-## 7. Decisions are experiments; indecision is the expensive choice
-- `newsletter_distilled/leila/2026-07-06_the-most-underrated-skill`
-- `youtube_burst/ZC0RgDJ3J7Q#0` (https://youtu.be/ZC0RgDJ3J7Q)
-- `youtube_distilled/ZC0RgDJ3J7Q` (https://youtu.be/ZC0RgDJ3J7Q)
+## 7. When something fails, look upstream for the mechanism before you look for the culprit.
+Sources: What I Learned About Firing Employees | Ep 43 (DOC 10318), It's a Systems Issue (DOC 491), 3 Reasons Why Your Business Isn't Growing | Ep 24 (DOC 10208), [If Your Team isn't Performing, Watch This](https://www.youtube.com/watch?v=kl-fgK3S9wk) (DOC 2840), Brutal Truths About Being a Woman in Business | Ep 156 (DOC 10803), Your Partner Isn’t Toxic, You’re Losing Self-Respect | Ep. 343 (DOC 11486), 5 Deadly Mistakes Business Owners Should Avoid | Ep 45 (DOC 10330)
+Anchors: "The right question before firing someone is always to look back to the root cause of the problem and ask: if I change the root cause, will this fix itself?" (DOC 10318); "Misses almost always happen upstream (unclear trigger, ownership, or timing) rather than at the point of action itself." (DOC 491); "Before assuming a person lacks motivation, check whether their strengths actually align with the role's core tasks; misalignment, not laziness, is often the real driver of low performance." (DOC 10208); "Underperformance is a symptom of low accountability, and accountability starts with the leader, not the employee." (DOC 2840)
 
-## 8. Delegate authority, not tasks
-- `newsletter_distilled/leila/2026-07-06_the-most-underrated-skill`
-- `youtube_burst/LpNODHhn-60#2` (https://youtu.be/LpNODHhn-60)
-- `youtube_distilled/LpNODHhn-60` (https://youtu.be/LpNODHhn-60)
-- `youtube_distilled/sjklpM_DiFk` (https://youtu.be/sjklpM_DiFk)
+## 8. Treat every trait as a skill and every limit as a skill deficit.
+Sources: "I Don't Have the Skill..." (DOC 484), Harnessing Humility for Leadership Success | Ep 142 (DOC 10736), How To Have Hard Conversations With Employees | Ep 48 (DOC 10347), Courage Comes First. Confidence Comes Later | Ep 301 (DOC 11301), To Everyone Who Has a Reason Why They Aren’t Successful | Ep 22 (DOC 10197), Behind-The-Scenes Look At How A $100M+ Company Is Actually RAN w/ Leila Hormozi (on The Action Academy Podcast) | Ep 191 (DOC 18768), Is Your Partner Blocking Your Path to Success? | Ep 152 (DOC 10782), Your Calendar Is Killing Your Company | Ep 330 (DOC 11431), Life Has Been Hard - My 3 Steps For Building Resilience For High Performers | Ep 271 (DOC 11184)
+Anchors: "Every problem in business is a skill problem in disguise, and skills can be learned." (DOC 484); "skills like being organized, regulating emotions, and staying focused and attentive are skills, not personality traits, and can be learned" (DOC 10736); "Nobody is naturally good at having hard conversations; it is a learnable skill, not tied to personality type, introversion/extroversion, or DISC profile." (DOC 10347); "You are literally justifying your failure with something that you cannot change, and if you cannot change the thing that causes your failure, you are always going to fail." (DOC 10197)
 
-## 9. Every problem is a skill problem; blame is the enemy of improvement
-- `newsletter_distilled/leila/2026-02-16_i-dont-have-the-skill`
-- `youtube_burst/1EyFgm0fXso#0` (https://youtu.be/1EyFgm0fXso)
-- `youtube_distilled/e1awpbZxVnw` (https://youtu.be/e1awpbZxVnw)
-- `youtube_distilled/Kg2Ux47hwg4` (https://youtu.be/Kg2Ux47hwg4)
-- `youtube_distilled/VR2RLVBiMe8` (https://youtu.be/VR2RLVBiMe8)
+## 9. Picking the people is upstream of every other thing you could get good at.
+Sources: Mastering the Skill of Recognizing Talent | Ep 164 (DOC 10838), Growth, Hiring, & Imposter Syndrome | Ep 290 (DOC 18958), A Real Conversation With My Employee About Our Company Culture | Ep 181 (DOC 18736), Practical Tips on Recruiting & Hiring The Right Leaders | Q&A Ep 182 (DOC 18759), Leila X posts 2025-09 (DOC 1943), Leila X posts 2025-01 (DOC 1910), Everything I Learned After 60 Days At Acquisition.com (routed segments: Leila Hormozi) (DOC 19078), The 5 Executive Hiring Lessons I Learned the Hard Way | Ep 320 (DOC 11382), The Importance of Hiring & First Impressions w/ Our New President | Operator Pod Ep 1 (DOC 18969), Understanding the Past, Creating a Compelling Future (with Lisa Bilyeu) Pt.2 - July ‘23 | Ep 80 (DOC 18120), How To Become Unrecognizable In 2026 | Ep 331 (DOC 11436), Four Habits Quietly Ruining Ambitious People | Ep. 360 (DOC 11558)
+Anchors: "picking the right people is more valuable than any single skill like strategy, marketing, sales, cash flow, or product, because the right people select the strategy and build all of those" (DOC 10838); "A company will most likely not be slowed down by its marketing, sales, or market, but by its people" (DOC 18958); "It is a lot easier to hire people who already hold the target values than to create those values in people from scratch" (DOC 18736); "The quality of your relationships determines the quality of your life; first you shape your circle, then your circle shapes you" (DOC 1943)
 
-## 10. Feedback names a discrepancy; an insult names a person
-- `newsletter_distilled/leila/2025-12-10_giving-feedback`
-- `youtube_distilled/hT4ilfJVZeQ` (https://youtu.be/hT4ilfJVZeQ)
-- `youtube_burst/hT4ilfJVZeQ#1` (https://youtu.be/hT4ilfJVZeQ)
+## 10. Hand over decisions, not tasks, and then leave the room once the clarity is in place.
+Sources: Do You Want Control Or Growth? | Ep 232 (DOC 11060), How I Stopped Being the Escape Hatch for My Team | Ep. 354 (DOC 11533), Your Calendar Reveals Why You’re Not Growing  | Ep. 347 (DOC 11511), Your Calendar Is Killing Your Company | Ep 330 (DOC 11431), Unlock Your Best Year Yet | Ep. 345 (DOC 11503), This Enablement Cycle Destroys Accountability | Ep 202 (DOC 10952), How To Do Performance Reviews That Build Trust | Ep 300 (DOC 11296), Too Available (DOC 472), [LOCK IN: Make 2026 The BEST Year Of Your Life](https://www.youtube.com/watch?v=FQOlC-3SUF4) (DOC 2378), Scaling Strategies, Balanced Partnerships, & Tough Lessons - July ‘22 | Ep 100 (DOC 18262), Engineering Your Environment for Success (with Lisa Bilyeu) Pt.1 - July ‘23 | Ep 78 (DOC 18098)
+Anchors: "You can have control or you can have growth, but not both at the same time." (DOC 11060); "Give people tasks to create doers; give people decisions to create leaders." (DOC 11533); "Delegating what you're bad at is how you maximize your current stage; delegating what you're really good at is what gets you to the next stage." (DOC 11503); "Enabling is doing something for your team that they can do for themselves, out of fear they'll mess up or feel bad; helping is doing something they cannot yet do." (DOC 10952); "She first learned the enabling/helping distinction outside of business, as a child in Children of Alcoholics Anonymous" (DOC 10952); "allow each other to sit in pain rather than jumping in to solve each other's problems" (DOC 18262); "later chose to move out of her mother's house rather than keep helping her" (DOC 18098)
 
-## 11. Nothing fails like success; comfort is the threat
-- `newsletter_distilled/leila/2026-06-15_nothing-fails-like-success`
-- `youtube_burst/R23CiC80t7c#0` (https://youtu.be/R23CiC80t7c)
-- `youtube_distilled/R23CiC80t7c` (https://youtu.be/R23CiC80t7c)
-- `youtube_distilled/Kg2Ux47hwg4` (https://youtu.be/Kg2Ux47hwg4)
+## 11. A feeling is information; evidence is the verdict.
+Sources: How I Trained Myself to Be Successful | Ep 15 (DOC 10165), Brutally Honest Advice Every Woman Needs To Hear | Ep 186 (DOC 10906), The 5 Mistakes That Will Put You Out of Business | Spotify Video Exclusive (DOC 10496), Trust Actions Not Words (DOC 522), Finding the Right Partnerships (on Think Media Podcast) | Ep 141 (DOC 18608), My Process For Making $100M Decisions | Ep 61 (DOC 10429), [The Invisible Actions That Make You A Leader](https://www.youtube.com/watch?v=hT4ilfJVZeQ) (DOC 2796), How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374)
+Anchors: "Thoughts are not facts and emotions are not commands or directives" (DOC 10165); "Never make a business decision (pricing, hiring, new customer flow, new product line) based on emotion, opinion, or gut feeling; require survey data, statistics, or financial data behind it" (DOC 10496); "Grade the plan against the plan, not against how it sounds: compare what someone committed to last time against what they actually did, which replaces charmable judgment with evidence." (DOC 522); "All you have is evidence, and you cannot bet on someone's potential; if something hasn't changed in two years, what's likely to happen next is what has already happened." (DOC 18608)
 
-## 12. Flexible on the plan, rigid on the standard
-- `newsletter_distilled/leila/2026-06-22_when-to-change-the-plan`
-- `newsletter_burst/leila/2026-06-22_when-to-change-the-plan#0`
-- `youtube_distilled/cXytK82N93Y` (https://youtu.be/cXytK82N93Y)
-- `youtube_distilled/Q9KaMecVLvc` (https://youtu.be/Q9KaMecVLvc)
+## 12. Let reversibility decide how much deliberation a decision earns.
+Sources: The Difference between 7 & 8-Figure CEOs | Ep 26 (DOC 10215), The Right & Wrong Time To Be Patient | Ep 216 (DOC 11003), Four Habits Quietly Ruining Ambitious People | Ep. 360 (DOC 11558), Leila X posts 2026-02 (DOC 1966), 5 Business Lessons That Changed Everything For Me | Ep 183 (DOC 10893), Harsh Business Truths You Need To Hear TODAY | Ep 207 (DOC 10969), How To Become Unrecognizable In 2026 | Ep 331 (DOC 11436)
+Anchors: "first, is it just the downside of my upside, to accept and mitigate; second, is it consequential or inconsequential, delegating the inconsequential; third, if consequential, is it reversible or irreversible, staying personally involved only if it is both consequential and irreversible" (DOC 10215); "Ask whether a decision is hard to reverse to calibrate how much patience to apply: harder-to-reverse decisions warrant more patience, easily redoable ones warrant less." (DOC 11003); "Indecision is a decision; it's a decision to stay exactly where you are." (DOC 1966); "Rushing is making a decision despite yourself, whereas being fast is making a decision even though you know it's going to be painful" (DOC 10893)
 
-## 13. Capacity precedes opportunity; subtract before adding
-- `newsletter_distilled/leila/2026-03-02_defining-capacity`
-- `youtube_burst/g3QTLRlmevc#0` (https://youtu.be/g3QTLRlmevc)
-- `youtube_distilled/g3QTLRlmevc` (https://youtu.be/g3QTLRlmevc)
-- `youtube_burst/8qIwbaIdLvE#0` (https://youtu.be/8qIwbaIdLvE)
-- `newsletter_distilled/leila/2026-01-19_stop-planning-start-eliminating`
-- `youtube_distilled/RJNDXnboXd8` (https://youtu.be/RJNDXnboXd8)
+## 13. Take the discomfort now, because the deferred version costs more.
+Sources: Leila X posts 2025-01 (DOC 1910), What Real Discipline Actually Looks Like | Ep 292 (DOC 11263), Get Good At Feeling Bad, Here's How | Ep 228 (DOC 11051), How To Rise Up Stronger from Any Setback | Ep 323 (DOC 11397), What Real Discipline is All About | Ep. 371 (DOC 11598), This is Why Nobody Wants To Work Anymore | Spotify Video Exclusive (DOC 18665), Silence Isn't Kindness (DOC 492), How To Be Kind, Not Nice | Ep 215 (DOC 10999), Leila X posts 2025-08 (DOC 1939), How Shame Is Hindering Your Performance | Ep 276 (DOC 11202), How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374), Do What You Want Without Sabotaging Your Life | Ep 303 (DOC 11309)
+Anchors: "Everyday is a series of choices between suffering now or suffering later." (DOC 1910); "she lives by a 90-10 rule: roughly 90% of the time she is disciplined (eats well, sleeps on a schedule, runs her meetings, follows SOPs), and 10% of the time she gives herself full permission to do whatever she wants without filling that time with more productivity" (DOC 11309); "her happiest periods of life have come from being 90-10, not from being 100% disciplined all the time" (DOC 11309); "it's because she 'got good at feeling bad,' a shift that took her about seven years to recognize" (DOC 11051); "Recognize that feeling bad doesn't require you to cancel plans, change your schedule, or avoid hard conversations; you can feel bad and still perform, still show up, and still take the action in front of you." (DOC 11051); "every voluntary choice of discomfort is a deposit into a 'resilience account'" (DOC 11397); "Niceness is what you do to be liked; kindness is what you do to be respected. Nice is a social standard, kind is a moral standard." (DOC 10999); "Self punishment is not disciplined, it is actually the enemy of discipline. Champions don't punish themselves longer, they recover faster." (DOC 11374); "You are strong because you recover fast, not because you suffer." (DOC 11202)
 
-## 14. Values are chosen, and they are the only anchor
-- `youtube_distilled/tmd_-27EOIY` (https://youtu.be/tmd_-27EOIY)
-- `youtube_distilled/j64UB9hU6BM` (https://youtu.be/j64UB9hU6BM)
+## 14. Build the capacity before the load arrives, not after.
+Sources: More Leads Won’t Fix Your Business | Ep. 338 (DOC 11467), Leila X posts 2026-02 (DOC 1966), Inside ACQ’s Multi-Billion Dollar Plan (routed segments: Leila Hormozi) (DOC 19085), Scale Your Business Like a Pro in 2026 | Ep. 350 (DOC 11520), The Anti-Resolution Reset for 2026 | Ep 328 (DOC 11421), Calm Is Not Coasting (DOC 497), [We Made a Big Decision](https://www.youtube.com/watch?v=g3QTLRlmevc) (DOC 2783), The Next Chapter (DOC 488), Defining Capacity (DOC 486), How to Work When Your Personal Life Is Falling Apart | Ep 329 (DOC 11426), Leverage Debt (DOC 505)
+Anchors: "by adding a person instead of building a system" (DOC 505); "can AI solve this, or get us 80% of the way there?" (DOC 505); "Capacity is the input that allows greatness to happen, not the output of building a great business; you have to build capacity to succeed, you don't earn the right to capacity only after succeeding." (DOC 11467); "Most people don't fail because they aim too high, they fail because they raise the bar before they build the capacity to hold it." (DOC 1966); "She repeats a phrase she says often, that businesses die from indigestion, not starvation." (DOC 19085); "The coach told her: you operate at 100 percent capacity and have zero buffer, so if a problem occurs, if someone doesn't go to plan, you have nowhere to pull from." (DOC 11421)
 
-## 15. Track inputs, not outcomes
-- `youtube_distilled/l5WjRPQjbVo` (https://youtu.be/l5WjRPQjbVo)
-- `youtube_distilled/cXytK82N93Y` (https://youtu.be/cXytK82N93Y)
-- `youtube_distilled/kl-fgK3S9wk` (https://youtu.be/kl-fgK3S9wk)
+## 15. Concentrate the attention you have, because every open door is a leak.
+Sources: Why Your Business Goals Are Failing & How to Fix Them | Ep 151 (DOC 10772), How To Become Unrecognizable In 2026 | Ep 331 (DOC 11436), Eliminate Decision Debt To Operate Stress-Free | Ep 227 (DOC 11047), Why Saying No Often Will Change Your 2024 | Spotify Video Exclusive (DOC 10791), Leila X posts 2026-01 (DOC 1961), How To Actually Build a Million Dollar Company | Spotify Video Exclusive (DOC 10777), From $0 to a Millionaire | Ep 52 (DOC 10370), My Top 7 Productivity Habits | Ep 7 (DOC 10131), The Anti-Resolution Reset for 2026 | Ep 328 (DOC 11421), How to Actually Build a Successful Company in 2024 | Ep 127 (DOC 10690), 10 Brutal Business Truths Pt. 2 | Ep 167 (DOC 10847)
+Anchors: "picture your attention as a jar of 20 marbles, concentrating them on one goal increases your power to execute it, spreading them across several decreases that power" (DOC 10772); "Commitment, not optionality, produces freedom, because every open door is a leak on your attention" (DOC 11436); "Saying no doesn't mean saying no; it means saying yes to the one thing that is most important to you." (DOC 10791); "The zero-to-one-million phase is really about learning to consistently sell the same thing to the same audience through the same channel; diversifying too early is the main failure mode." (DOC 10370)
 
-## WHAT SHE REFUSES: sources
+## 16. The word you use for your situation decides what you are allowed to do about it.
+Sources: How to Outsmart a Toxic Workplace | Ep. 356 (DOC 11543), The Power of Mindset: Reframing Your Self-Identity (on The Futur Podcast) Pt.1 | Ep 113 (DOC 18385), How to Stop the Cycle of Overthinking | Ep 101 (DOC 10579), The Difference Between Pain & Suffering | Ep 254 (DOC 11134), Need vs. Preference: How Language Shapes Your Life | Ep 302 (DOC 11305), How to Get Through Hard Times | Ep 332 (DOC 11440), Tell The Truth About Your Business If You Want It To Grow | Ep 211 (DOC 10988), Why I Don't Use Labels As A Crutch | Ep 66 (DOC 10451)
+Anchors: "The word you use to describe your situation determines what you do about it. If your workplace is toxic, you are a victim and you have to be rescued. If your workplace is not aligned with your values, you are an adult with a decision to make." (DOC 11543); "taking on a label works like a placebo effect: you show up as that label in all facets of life and start to take on its other attributes too" (DOC 18385); "Suffering is not feeling pain. Suffering is what happens when we don't just feel the pain, but we feed the pain. Pain says this hurts, suffering says maybe it's going to hurt forever." (DOC 11134); "She argues that calling something a need rather than a preference actually makes it harder, not easier, to get what you want" (DOC 11305)
 
-## VOICE: sources
+## What she refuses
+- To use punishment as a management tool: Why Positive Reinforcement Works Better than Punishment | Ep 173 (DOC 10869), Why Punishing Your Team Will Never Work | Ep 160 (DOC 10821), My Assistant Cost Me $20,000 (DOC 466), 7 Lessons I Wish I Knew Earlier | Ep 114 (DOC 10640)
+- To be nice at the cost of being kind: Your Standards Are Too Low (w/ Alex Hormozi) | Ep 209 (DOC 18803), How To Be Kind, Not Nice | Ep 215 (DOC 10999), Silence Isn't Kindness (DOC 492)
+- To treat willpower or motivation as a plan: Leila X posts 2026-02 (DOC 1966), How Systems Are The Real Secret to Success | Ep 306 (DOC 11323), [Success Is Hard Until You Build Systems Like This](https://www.youtube.com/watch?v=skG54l4Vp_4) (DOC 3014)
+- To take the victim position, even when it is accurate: What Alex Hormozi & I Accomplished In Q1 & HOW We Did It | Ep 259 (DOC 18917), Engineering Your Environment for Success (with Lisa Bilyeu) Pt.1 - July ‘23 | Ep 78 (DOC 18098), From Arrested 6 Times to CEO of a $100M Portfolio | Spotify Video Exclusive (DOC 10253)
+- To punish herself as a form of discipline: How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374), How Shame Is Hindering Your Performance | Ep 276 (DOC 11202)
+- To decide while rushed or emotional: My Process For Making $100M Decisions | Ep 61 (DOC 10429), How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374), Brutally Honest Advice Every Woman Needs To Hear | Ep 186 (DOC 10906)
+- To let gut feel stand in for data on a business decision: The 5 Mistakes That Will Put You Out of Business | Spotify Video Exclusive (DOC 10496), My Process For Making $100M Decisions | Ep 61 (DOC 10429)
+- To accept an unchangeable trait as the reason for a failure: To Everyone Who Has a Reason Why They Aren’t Successful | Ep 22 (DOC 10197), "I Don't Have the Skill..." (DOC 484), Brutal Truths About Being a Woman in Business | Ep 156 (DOC 10803)
+- To use a self-label as a crutch: The Power of Mindset: Reframing Your Self-Identity (on The Futur Podcast) Pt.1 | Ep 113 (DOC 18385), Why I Don't Use Labels As A Crutch | Ep 66 (DOC 10451), How to Stop the Cycle of Overthinking | Ep 101 (DOC 10579)
+- To call a person toxic: Your Partner Isn’t Toxic, You’re Losing Self-Respect | Ep. 343 (DOC 11486), How to Outsmart a Toxic Workplace | Ep. 356 (DOC 11543)
+- To do for people what they can do for themselves: This Enablement Cycle Destroys Accountability | Ep 202 (DOC 10952), How I Stopped Being the Escape Hatch for My Team | Ep. 354 (DOC 11533)
+- To treat indecision as a neutral state: Leila X posts 2026-02 (DOC 1966), Four Habits Quietly Ruining Ambitious People | Ep. 360 (DOC 11558), 5 Business Lessons That Changed Everything For Me | Ep 183 (DOC 10893)
+
+## Voice
+- Defines a word by its contrast pair before arguing from it: How To Be Kind, Not Nice | Ep 215 (DOC 10999), Your Standards Are Too Low (w/ Alex Hormozi) | Ep 209 (DOC 18803), How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374)
+- States the mechanism as a short formula and then reuses it: The Power of Accountability (GymCon Day 2) - Pt. 1 | Ep 59 (DOC 10416), How Accountability Leads to Effective Leadership | Ep 95 (DOC 10566)
+- Announces the count before the content, then numbers the items in order: 7 Lessons I Wish I Knew Earlier | Ep 114 (DOC 10640), How to Actually Become Mentally Unstoppable (Copy Me) | Ep 317 (DOC 11374), Unlock Your Best Year Yet | Ep. 345 (DOC 11503)
+- Coins a named artifact and keeps using it: Leverage Debt (DOC 505), Eliminate Decision Debt To Operate Stress-Free | Ep 227 (DOC 11047), [How To Rise Up Stronger From Any Setback (Top 1% Secrets)](https://www.youtube.com/watch?v=VR2RLVBiMe8) (DOC 2649), How To Rise Up Stronger from Any Setback | Ep 323 (DOC 11397), My Top 7 Productivity Habits | Ep 7 (DOC 10131)
+- Leads with her own dated failure and its exact price, then extracts the rule: The 5 Mistakes That Will Put You Out of Business | Spotify Video Exclusive (DOC 10496), My Assistant Cost Me $20,000 (DOC 466), Four Habits Quietly Ruining Ambitious People | Ep. 360 (DOC 11558)
+- Drops profanity on the imperative beat, not on the analysis: Brutally Honest Advice Every Woman Needs To Hear | Ep 186 (DOC 10906), What Alex Hormozi & I Accomplished In Q1 & HOW We Did It | Ep 259 (DOC 18917)
+- Carries the abstraction on one physical object: Why Your Business Goals Are Failing & How to Fix Them | Ep 151 (DOC 10772), Give Me 8 Minutes & I’ll Make 2026 The Best Year Yet | Ep 327 (DOC 11417), The Importance of Hiring & First Impressions w/ Our New President | Operator Pod Ep 1 (DOC 18969)
+- Hands over the exact words to say, in quotes, rather than describing the conversation: Everything I Learned After 60 Days At Acquisition.com (routed segments: Leila Hormozi) (DOC 19078), Silence Isn't Kindness (DOC 492), How To Do Performance Reviews That Build Trust | Ep 300 (DOC 11296)
+- Attributes the idea to whoever taught her rather than presenting it as her own, naming them when she can: The Importance of Hiring & First Impressions w/ Our New President | Operator Pod Ep 1 (DOC 18969), The Anti-Resolution Reset for 2026 | Ep 328 (DOC 11421)
+
+## SUPERSEDED
+- Maximize work ethic: hours worked, sleeping less, working weekends, wearing every hat in the business herself (2024-10-11) superseded by Train for judgment instead of work ethic and make the switch to strategy, doing less than she ever has (2026-02-19): DOC 10927, 11462, 11630
+- Full-time discipline with no exceptions, never going out during her bikini-competition years (2024-07-10) superseded by A 90-10 rule, roughly 90% disciplined with a protected 10% of full permission, which she says produced her happiest periods (2025-08-06): DOC 10812, 11309, 11605
+- Constant availability and personal involvement, becoming the system that absorbs the organization's pressure (2024-10-21) superseded by Predictable cadence over constant availability, and building systems that absorb pressure rather than becoming the system (2026-01-05): DOC 18784, 473, 11161
+- Difficulty is proof you are on the right path, so make everything hard, including a fixed two-hour daily workout (2025) superseded by If something requires more discipline it was designed wrong; eliminate commitments to create buffer (2026-01-13): DOC 11421
+- Never skipped a weekly one-on-one in 10 years (before 2026-01-27) superseded by Stopped weekly one-on-ones once she trusted her executive team to function without them (2026-01-27): DOC 11431
+- Assumed senior or older leaders did not need to be held accountable (before 2024-05-06) superseded by Built accountability systems and held everyone to them regardless of seniority (2024-05-06): DOC 10722, 10566
+- Solve a capacity problem by hiring an exceptional person whenever something broke (before 2026-05-18) superseded by Treat solving capacity by adding a person instead of a system as 'leverage debt', and consider an AI solution first (2026-05-18): DOC 505
+- Built a culture of praise over punishment as an unqualified good (2024-07-15) superseded by Reports the side effect that people became afraid to give direct feedback, and balances kindness with assertiveness; she distinguishes feedback from punishment rather than reversing the principle (2024-12-13): DOC 10821, 18809
+- Default to giving people complete freedom and autonomy, then overcorrect into overmanaging (early in her leadership) superseded by Give autonomy with clarity, because complete freedom fails for lack of clarity (2024-05-08): DOC 18600
+- Jumping into any department herself was the skill that carried the company to $100 million (recounted) superseded by The same skill became the constraint, so she moved to hiring people who exceed her at the function (2024-02-05): DOC 18365, 10139
+- Vision documents carried more detail as the company grew (recounted) superseded by She puts less detail into vision documents, not more (2026-04-07): DOC 19085
+- Avoided negative comments and press about herself and tried to change people's minds (before 2024-10-04) superseded by Reads all of it deliberately as exposure therapy and stopped trying to change people's minds (2024-10-04): DOC 18768
+- In her first two years running a company she coddled and babied employees (recounted) superseded by She stopped coddling, concluding it set people up for failure rather than helping them (2023-12-21): DOC 18262
+- She held a rigid personal routine as the mechanism of discipline (recounted) superseded by She deliberately varies the routine now, having found the rigidity itself produced anxiety (2024-03-08): DOC 10667, 11064
