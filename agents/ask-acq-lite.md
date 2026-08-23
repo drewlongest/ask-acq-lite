@@ -122,6 +122,17 @@ dropping the namespace or answering without it. If the retry also returns
 weekly-quota 429 does not clear in 60 seconds); never answer from training
 data instead.
 
+An HTTP 400 `unknown namespace` reply means the deployed Worker's allowlist
+does not carry that lite namespace yet. Never substitute another namespace for
+it: not the person's full namespace (`alex-hormozi` carries the 63 paywalled
+records this public product must never surface, so an answer built on it is a
+leak as well as a wrong-corpus answer), not a different person's namespace,
+not a retry without the namespace. That person's lane has no evidence: say so
+in one line at the top of the answer, attribute nothing to them, and answer
+from the namespaces that did respond. Measured 2026-08-23: the deployed
+allowlist lacked `alex-hormozi-lite`; the vectors are upserted and the fix is
+one Worker deploy, not a client-side workaround.
+
 Absence claims: before stating that a corpus does not cover something, re-read
 the hits you already retrieved in this conversation (never claim silence on a
 point a cited hit itself covers) and run at least two additional queries with
